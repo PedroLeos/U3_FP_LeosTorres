@@ -1,0 +1,15 @@
+C:\Users\Pablo Leos\source\repos\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\bin\Debug\U3_FP_Tarea_PedroLeos.exe.config
+C:\Users\Pablo Leos\source\repos\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\bin\Debug\U3_FP_Tarea_PedroLeos.exe
+C:\Users\Pablo Leos\source\repos\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\bin\Debug\U3_FP_Tarea_PedroLeos.pdb
+C:\Users\Pablo Leos\source\repos\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.csproj.AssemblyReference.cache
+C:\Users\Pablo Leos\source\repos\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pablo Leos\source\repos\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Leos\source\repos\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.exe
+C:\Users\Pablo Leos\source\repos\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.pdb
+C:\Users\Tecnologico\Documents\TEC\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\bin\Debug\U3_FP_Tarea_PedroLeos.exe.config
+C:\Users\Tecnologico\Documents\TEC\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\bin\Debug\U3_FP_Tarea_PedroLeos.exe
+C:\Users\Tecnologico\Documents\TEC\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\bin\Debug\U3_FP_Tarea_PedroLeos.pdb
+C:\Users\Tecnologico\Documents\TEC\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\Documents\TEC\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\Documents\TEC\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.exe
+C:\Users\Tecnologico\Documents\TEC\U3_FP_Tarea_PedroLeos\U3_FP_Tarea_PedroLeos\obj\Debug\U3_FP_Tarea_PedroLeos.pdb
